@@ -15,7 +15,7 @@
     background-image: url(assets/card-bg.jpg);
     background-size: 100% 100%;
     color: white;
-    text-shadow: 1px 1px white;
+    text-shadow: 1px 1px black;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -27,5 +27,5 @@
 
         .business-card a:hover {
             color: cyan;
-            text-shadow: 1px 1px cyan;
+            text-shadow: 1px 1px black;
         }
